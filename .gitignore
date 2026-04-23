@@ -1,0 +1,27 @@
+# Compiled files
+robot_sim
+*.o
+*.out
+*.exe
+
+# Build directories
+cmake-build-debug/
+build/
+
+# Trace files
+trace_info
+
+# Backup files
+*.backup
+
+# Visualization output
+*.gif
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
